@@ -1,0 +1,22 @@
+{
+  "name": "flashbot",
+  "version": "1.0.0",
+  "description": "this is a project that showcases how to make use of flashbots",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "flashbot"
+  ],
+  "author": "developeruche",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^18.7.13",
+    "dotenv": "^16.0.1",
+    "ethers": "^5.7.0"
+  },
+  "devDependencies": {
+    "@flashbots/ethers-provider-bundle": "^0.5.0"
+  }
+}
